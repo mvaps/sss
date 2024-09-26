@@ -1,0 +1,55 @@
+H1{
+font-size: 100PX;
+position: absolute;
+left: 550PX;
+color: rgb(112, 107, 74);
+background-color: rgb(255, 255, 255);
+border-radius: 20px;
+    
+
+}
+input{
+ margin-top:250px;
+ margin-left: 380px;
+ width: 700PX;
+ height: 40px;
+ border-radius: 20px;
+
+
+}
+::placeholder{
+    position: absolute;
+    top: 15px;
+    left: 30px;
+}
+img{
+height: 20px;
+margin-left: -690px;        
+position: absolute;
+margin-top: -33px; 
+
+
+}
+.ff{
+position: absolute;
+top: 0px;
+font-size: 20px;
+left: 0px;
+background-color: rgb(0, 0, 0);
+border-radius: 20px;
+padding: 10px 50px ;
+color: white;
+
+
+}
+.rr{
+position: absolute;
+top: 0;
+font-size: 20px;
+left: 13%;
+background-color: rgb(0, 0, 0);
+padding:10px 50px ;
+color: white;
+
+
+}
